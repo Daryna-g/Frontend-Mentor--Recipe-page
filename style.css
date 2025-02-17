@@ -65,23 +65,23 @@ h3 {
 
 ul,
 ol {
-  margin-left: 1.5rem;
-  display: flex;
-  flex-direction: column;
-  gap: 0.8rem;
+	margin-left: 1.5rem;
+	display: flex;
+	flex-direction: column;
+	gap: 0.8rem;
 }
 
 ul {
-  list-style-type: disc;
+	list-style-type: disc;
 }
 
 li {
-  padding-left: 1rem;
+	padding-left: 1rem;
 }
 
 li::marker {
-  font-weight: 700;
-  color: var(--crl-brown-800);
+	font-weight: 700;
+	color: var(--crl-brown-800);
 }
 hr {
 	border-top: 0.5px solid var(--crl-stone-150);
@@ -123,11 +123,11 @@ table {
 }
 tr,
 td {
-  border-bottom: 1px solid var(--crl-stone-150);
+	border-bottom: 1px solid var(--crl-stone-150);
 }
 
 td {
-  padding: 1.2rem 2.8rem;
+	padding: 1.2rem 2.8rem;
 }
 td:last-child {
 	color: var(--crl-brown-800);
